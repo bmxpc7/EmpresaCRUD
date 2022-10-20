@@ -1,1 +1,8 @@
 /Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/EmpresaApplication.java
+/Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/commons/GenericServiceAPI.java
+/Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/commons/GenericServiceImpl.java
+/Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/dao/api/EmpleadoRepo.java
+/Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/service/impl/EmpleadoServiceImpl.java
+/Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/controller/EmpleadoController.java
+/Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/service/api/EmpleadoService.java
+/Users/morpheus/Documents/Pruebas/Java/EmpresaCRUD/src/main/java/com/example/Empresa/model/Empleado.java

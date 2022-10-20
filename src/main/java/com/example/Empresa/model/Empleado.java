@@ -15,6 +15,16 @@ public class Empleado {
     public Empleado() {
     }
 
+    public Empleado(long id, String nombre, String apellido, int edad, String puesto, String usuario, String contrasena) {
+        this.id = id;
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.edad = edad;
+        this.puesto = puesto;
+        this.usuario = usuario;
+        this.contrasena = contrasena;
+    }
+
     public long getId() {
         return id;
     }
